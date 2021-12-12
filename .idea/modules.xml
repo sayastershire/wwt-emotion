@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://D:/Projects/cancelled/.idea/cancelled.iml" filepath="D:/Projects/cancelled/.idea/cancelled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cancelled/.idea/cancelled.iml" filepath="$PROJECT_DIR$/../cancelled/.idea/cancelled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../microcredential/.idea/microcredential.iml" filepath="$PROJECT_DIR$/../microcredential/.idea/microcredential.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/wwt-emotion.iml" filepath="$PROJECT_DIR$/.idea/wwt-emotion.iml" />
     </modules>
   </component>
